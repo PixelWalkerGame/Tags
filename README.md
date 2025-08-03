@@ -12,7 +12,6 @@ We welcome all contributions, big or small. To maintain the quality and consiste
 - **Be Specific:** Tags should be directly relevant to the block. Think about what a player might type to find it.
 - **Use Common Terminology:** Use aliases and terms that are widely understood by the community.
 - **Alphabetical Order:** Please keep the JSON file organized alphabetically by pack name. In each pack, Foreground blocks should be alphabetized first, followed by Decoration and then Backgrounds. This makes it easier to merge changes and avoid conflicts.
-- **One Block Pack Per PR:** To simplify reviews, please make a separate PR for each new or updated block pack entry.
 
 ### Contribution Process
 1. Fork this repository.
